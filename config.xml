@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "sk/d/LF_fH3hq_4vutg.yadi.app"
+        id          = "sk.yadi.app"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
     <name>ТЕСТ. 10 КНИГ ДЛЯ ВЫЗДОРОВЛЕНИЯ</name>
 
